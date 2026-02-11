@@ -45,4 +45,5 @@ print(
     + f"I told my sister {sister_name} about this and she just laughed at me 🙄"
     + "Anyway, that's the story of my math test."
 )
+)
 ```
