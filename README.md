@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=22615880&assignment_repo_type=AssignmentRepo)
 # 0.4-variables-investigation
 ## Startup
 
@@ -43,5 +44,6 @@ print(
     + f"so I needed to, on the next line, say that the value of y was {y}. "
     + f"I told my sister {sister_name} about this and she just laughed at me 🙄"
     + "Anyway, that's the story of my math test."
+)
 )
 ```
